@@ -1,0 +1,11 @@
+# Configuración local sensible
+config/db_local.php
+
+# Logs
+*.log
+error_log
+
+# Temporales
+*.tmp
+.DS_Store
+Thumbs.db
